@@ -1,0 +1,8 @@
+body {background-color: #398E60;}
+h1{color: #B46D6D; font-family: elvetica; font-size: 24px;}
+p{color: #B21F1F; font-family: Arial; font-size: 14px;}
+img{margin-left:250px; border-color: white; border-width: 5px; border-style: dotted solid double dashed;}
+ul{color:#661FB2}
+a{color:#673E92; text-decoration: none;}
+a:hover {color: #3E9092;}
+a:visited {color: #FFC300;}
